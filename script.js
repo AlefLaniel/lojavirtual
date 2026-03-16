@@ -1,0 +1,1 @@
+console.log("Olá, mundo! Este é o script.js da loja3.");
